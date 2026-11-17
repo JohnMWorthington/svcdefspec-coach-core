@@ -21,6 +21,7 @@
 │   ├── getting-started.md
 │   ├── core-vs-full.md
 │   ├── full-available-upon-request.md
+│   ├── end-user-guide.md
 │   └── support-and-limitations.md
 ├── platforms/
 │   ├── chatgpt/
