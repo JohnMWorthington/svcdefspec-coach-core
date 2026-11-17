@@ -40,6 +40,9 @@ The Coach deliberately stops before detailed USM workflow/process/request design
 
 ## Start here
 
+For a plain-language walkthrough, see `docs/end-user-guide.md`.
+
+
 
 Choose your platform:
 
