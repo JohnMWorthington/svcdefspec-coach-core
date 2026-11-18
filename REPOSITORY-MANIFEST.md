@@ -1,11 +1,8 @@
-﻿# SvcDefSpec Coach CORE — Repository Manifest
-
+# SvcDefSpec Coach CORE — Repository Manifest
 
 **Release candidate:** v0.1.26
 
-
 ## Public repository
-
 
 ```text
 /
@@ -19,6 +16,8 @@
 │   └── svcdefspec-core.md
 ├── docs/
 │   ├── getting-started.md
+│   ├── quick-start.md
+│   ├── quick-start-chatgpt-claude.md
 │   ├── core-vs-full.md
 │   ├── full-available-upon-request.md
 │   ├── end-user-guide.md
@@ -29,18 +28,16 @@
 │   └── claude/
 │       └── README.md
 ├── templates/
+│   ├── README.md
 │   ├── Service-Model-Map-Template.pptx
 │   └── USM-Service-Model-Canvas.xlsx
 └── validation/
     └── validation-summary.md
 ```
 
-
 ## Public release rules
 
-
 The public repository contains CORE only.
-
 
 Do not add:
 - FULL method/reference assets;
@@ -53,12 +50,9 @@ Do not add:
 - credentials, secrets, or private endpoints;
 - third-party or USM-owned material without confirmed redistribution rights.
 
-
 ## Controlled FULL repository/package
 
-
 FULL is maintained separately.
-
 
 Typical FULL contents include:
 - complete controlled method and reference material;
@@ -70,11 +64,8 @@ Typical FULL contents include:
 - host-specific FULL adapters;
 - extension registration and entitlement records.
 
-
 ## Source-of-truth rule
 
+Google Drive is the controlled authoring and administrative source. The platform-neutral CORE method is represented there as `[GH-CF] SvcDefSpec Platform-Neutral CORE Method.docx`.
 
-The controlled Drive repository remains the release-authoring source until a formal GitHub release process is approved.
-
-
-The public GitHub repository should be generated from a frozen controlled release, not edited independently in ways that create a method fork.
+The public GitHub repository is the controlled distribution/deployment representation for the frozen release. It should be generated from the controlled source, not edited independently in ways that create a method fork.
