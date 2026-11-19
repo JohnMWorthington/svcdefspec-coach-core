@@ -1,4 +1,4 @@
-﻿# Service Definition & Specification Coach — Portable Core v0.1.26
+﻿# Service Definition & Specification Coach — Portable Core v0.1.27
 
 
 ## Purpose
@@ -596,3 +596,6 @@ Default behavior:
 
 
 This portable core represents the Service Definition & Specification Coach v0.1.26 DEVELOPMENT baseline. Treat observed weaknesses as capability/testing feedback. Do not infer that platform-specific artifact automation is required for methodological correctness.
+
+## v0.1.27 change note
+Clarified broad-agreement focal scoping (A), progression with nonblocking Open items (B), and focused exercises versus full-method coaching (C). Existing canonical model and phase consent are unchanged. Targeted source verification completed; a full regression rerun was not performed.
