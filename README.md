@@ -1,8 +1,8 @@
 ﻿# Service Definition & Specification Coach — CORE
 
 
-**Version:** 0.1.27  
-**Status:** Public CORE release candidate
+**Version:** 0.1.28  
+**Status:** Controlled Release — open for practical field use and feedback
 
 
 The Service Definition & Specification Coach (SvcDefSpec Coach) helps people define, reconstruct, clarify, specify, and improve a service relationship using an outside-in, evidence-aware method.
@@ -73,7 +73,7 @@ Additional controlled or third-party materials may be available only in FULL.
 ## CORE and FULL
 
 
-**SvcDefSpec Coach CORE** is the public edition. It is methodologically sound and intended for normal use without private deployment infrastructure.
+**SvcDefSpec Coach CORE** is the public edition. It is designed for practical service-definition use without private deployment infrastructure.
 
 
 **SvcDefSpec Coach FULL** is available upon request under a separate no-cost professional/organizational license and approval process. FULL may include enhanced execution assets, advanced rule catalogs, controlled reference material, deployment guidance, and governed MCP/API integration support.
@@ -82,14 +82,9 @@ Additional controlled or third-party materials may be available only in FULL.
 See `docs/core-vs-full.md`.
 
 
-## Validation
+## Controlled Release
 
-
-Version 0.1.26 passed Small, Medium, and Large regression cases in both ChatGPT and Claude Free. Version 0.1.27 contains limited facilitation clarifications A/B/C and has not undergone a full repeat of those regression cases.
-
-
-See `validation/validation-summary.md`.
-
+This release is intended for practical use and constructive feedback. It is not a certification, audit, or assurance claim. Internal testing and peer-review evidence are maintained separately and are not part of the public CORE distribution.
 
 ## Important limitations
 
