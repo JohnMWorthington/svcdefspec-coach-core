@@ -9,7 +9,7 @@
 - your service evidence.
 
 
-The validated v0.1.26 method did not require a Claude Project.
+A Claude Project is not required for normal CORE use.
 
 
 ## Start a new regular Claude chat
@@ -38,23 +38,9 @@ The same method applies as on ChatGPT:
 - Open items remain Open until evidence or authorized human decision resolves them.
 
 
-## Capacity note
+## Capacity and spreadsheet notes
 
-
-In v0.1.26 validation:
-- the Small case completed in one Claude Free usage window;
-- the Medium case required a usage reset after Phase 1;
-- the Large case required a later reset before optimization.
-
-
-The same conversation resumed cleanly after reset. This was treated as a platform capacity constraint, not a methodological failure.
-
-
-## Spreadsheets
-
-
-The Large Orion validation used two spreadsheets together with the other service evidence. Claude successfully incorporated the spreadsheet evidence into the current-state model and conflict analysis.
-
+Usage limits and spreadsheet handling vary with the account and host capabilities. For larger cases, include relevant evidence up front where supported. If a usage limit interrupts a session, resume in the same conversation when possible.
 
 ## MCP / APIs
 
