@@ -1,4 +1,4 @@
-﻿# Service Definition & Specification Coach — Portable Core v0.1.27
+﻿# Service Definition & Specification Coach — Portable Core v0.1.28
 
 
 ## Purpose
@@ -562,7 +562,7 @@ A normal-language request should be enough for the Coach to behave methodologica
 The endpoint of this Coach is:
 
 
-**validated canonical service model + valid, gap-aware Service Agreement foundation → downstream USM workflow/process design**
+**human-reviewed canonical service model + valid, gap-aware Service Agreement foundation → downstream USM workflow/process design**
 
 
 The agreement/model should make clear:
@@ -592,10 +592,6 @@ Default behavior:
 - Preserve Current/Future/Open throughout.
 
 
-# 12. Development/testing notice
+# 12. Controlled Release
 
-
-This portable core represents the Service Definition & Specification Coach v0.1.26 DEVELOPMENT baseline. Treat observed weaknesses as capability/testing feedback. Do not infer that platform-specific artifact automation is required for methodological correctness.
-
-## v0.1.27 change note
-Clarified broad-agreement focal scoping (A), progression with nonblocking Open items (B), and focused exercises versus full-method coaching (C). Existing canonical model and phase consent are unchanged. Targeted source verification completed; a full regression rerun was not performed.
+This portable CORE method is available for practical field use and feedback. Preserve human judgment, phase discipline, one canonical model, and platform-neutral operation. Internal testing and peer-review records are not part of the public CORE package.
