@@ -38,9 +38,11 @@ FULL may include:
 - artifact execution contracts;
 - controlled USM/reference assets where redistribution rights permit;
 - deployment/operator guidance;
-- assurance and peer-review materials;
+- professional guidance and advanced execution assets;
 - governed integration support.
 
+
+Internal regression evidence and detailed peer-review findings are separate controlled materials, accessible only to specifically authorized reviewers; FULL entitlement alone does not grant access.
 
 FULL is provided only after the applicable no-cost professional/organizational license and approval process.
 
