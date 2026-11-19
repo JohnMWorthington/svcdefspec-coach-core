@@ -1,7 +1,7 @@
 ﻿# Service Definition & Specification Coach — CORE
 
 
-**Version:** 0.1.26  
+**Version:** 0.1.27  
 **Status:** Public CORE release candidate
 
 
@@ -85,7 +85,7 @@ See `docs/core-vs-full.md`.
 ## Validation
 
 
-Version 0.1.26 passed Small, Medium, and Large regression cases in both ChatGPT and Claude Free.
+Version 0.1.26 passed Small, Medium, and Large regression cases in both ChatGPT and Claude Free. Version 0.1.27 contains limited facilitation clarifications A/B/C and has not undergone a full repeat of those regression cases.
 
 
 See `validation/validation-summary.md`.
